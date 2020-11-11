@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Blank-Xu/aliyun-sdk-go/utils"
+	"github.com/xiongdi9456/aliyun-sdk-go/utils"
 )
 
 var (
